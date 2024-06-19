@@ -1,0 +1,6 @@
+{
+    "name": "face-detection-javascript-master",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
